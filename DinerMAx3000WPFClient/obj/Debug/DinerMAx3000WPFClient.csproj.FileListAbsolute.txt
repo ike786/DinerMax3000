@@ -15,3 +15,6 @@ C:\Users\Izaak\Documents\Visual Studio 2012\Projects\DinerMax3000\DinerMAx3000WP
 C:\Users\Izaak\Documents\Visual Studio 2012\Projects\DinerMax3000\DinerMAx3000WPFClient\obj\Debug\DinerMax3000WPFClient.pdb
 C:\Users\Izaak\documents\visual studio 2012\Projects\DinerMax3000\DinerMAx3000WPFClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
 C:\Users\Izaak\documents\visual studio 2012\Projects\DinerMax3000\DinerMAx3000WPFClient\obj\Debug\DinerMax3000WPFClient_MarkupCompile.lref
+C:\Users\Izaak\Documents\Visual Studio 2012\Git\DinerMax3000\DinerMAx3000WPFClient\bin\Debug\DinerMax3000WPFClient.exe.config
+C:\Users\Izaak\Documents\Visual Studio 2012\Git\DinerMax3000\DinerMAx3000WPFClient\obj\Debug\DinerMax3000WPFClient.exe
+C:\Users\Izaak\Documents\Visual Studio 2012\Git\DinerMax3000\DinerMAx3000WPFClient\obj\Debug\DinerMax3000WPFClient.pdb
