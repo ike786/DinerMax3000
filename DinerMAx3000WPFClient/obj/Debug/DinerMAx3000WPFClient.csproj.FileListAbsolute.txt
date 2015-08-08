@@ -1,0 +1,17 @@
+C:\Users\Izaak\Documents\Visual Studio 2012\Projects\DinerMax3000\DinerMAx3000WPFClient\bin\Debug\DinerMax3000WPFClient.exe.config
+C:\Users\Izaak\Documents\Visual Studio 2012\Projects\DinerMax3000\DinerMAx3000WPFClient\bin\Debug\DinerMax3000WPFClient.exe
+C:\Users\Izaak\Documents\Visual Studio 2012\Projects\DinerMax3000\DinerMAx3000WPFClient\bin\Debug\DinerMax3000WPFClient.pdb
+C:\Users\Izaak\Documents\Visual Studio 2012\Projects\DinerMax3000\DinerMAx3000WPFClient\bin\Debug\DinerMax3000BusinessLayer.dll
+C:\Users\Izaak\Documents\Visual Studio 2012\Projects\DinerMax3000\DinerMAx3000WPFClient\bin\Debug\DinerMax3000BusinessLayer.pdb
+C:\Users\Izaak\Documents\Visual Studio 2012\Projects\DinerMax3000\DinerMAx3000WPFClient\obj\Debug\DinerMAx3000WPFClient.csprojResolveAssemblyReference.cache
+C:\Users\Izaak\Documents\Visual Studio 2012\Projects\DinerMax3000\DinerMAx3000WPFClient\obj\Debug\MainWindow.baml
+C:\Users\Izaak\Documents\Visual Studio 2012\Projects\DinerMax3000\DinerMAx3000WPFClient\obj\Debug\MainWindow.g.cs
+C:\Users\Izaak\Documents\Visual Studio 2012\Projects\DinerMax3000\DinerMAx3000WPFClient\obj\Debug\App.g.cs
+C:\Users\Izaak\Documents\Visual Studio 2012\Projects\DinerMax3000\DinerMAx3000WPFClient\obj\Debug\DinerMax3000WPFClient_MarkupCompile.cache
+C:\Users\Izaak\Documents\Visual Studio 2012\Projects\DinerMax3000\DinerMAx3000WPFClient\obj\Debug\DinerMax3000WPFClient.g.resources
+C:\Users\Izaak\Documents\Visual Studio 2012\Projects\DinerMax3000\DinerMAx3000WPFClient\obj\Debug\DinerMax3000.WPFClient.Properties.Resources.resources
+C:\Users\Izaak\Documents\Visual Studio 2012\Projects\DinerMax3000\DinerMAx3000WPFClient\obj\Debug\DinerMAx3000WPFClient.csproj.GenerateResource.Cache
+C:\Users\Izaak\Documents\Visual Studio 2012\Projects\DinerMax3000\DinerMAx3000WPFClient\obj\Debug\DinerMax3000WPFClient.exe
+C:\Users\Izaak\Documents\Visual Studio 2012\Projects\DinerMax3000\DinerMAx3000WPFClient\obj\Debug\DinerMax3000WPFClient.pdb
+C:\Users\Izaak\documents\visual studio 2012\Projects\DinerMax3000\DinerMAx3000WPFClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Izaak\documents\visual studio 2012\Projects\DinerMax3000\DinerMAx3000WPFClient\obj\Debug\DinerMax3000WPFClient_MarkupCompile.lref
